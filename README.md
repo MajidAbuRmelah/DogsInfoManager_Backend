@@ -1,6 +1,7 @@
 # DogsInfoManager_Backend
 
-Clone the project, open the terminal and execute:
+1. Clone the project.
+2. Open the terminal and execute the code below:
 
 ```
 npm run dev
