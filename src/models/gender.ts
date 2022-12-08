@@ -1,6 +1,6 @@
 enum Gender {
   Male,
-  Female
+  Female,
 }
 
 export default Gender;
